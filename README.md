@@ -8,4 +8,4 @@
 # How to use it
 
 # License
-[MIT](https://github.com/lauraesmee/lauraesmee-package/blob/master/license.txt)
+[MIT](https://github.com/lauraesmee/lauraesmee-package/blob/master/license.md)
